@@ -7,7 +7,7 @@
 
 #
 <div align="center">
-  <a href="https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi" target="_blank"> NodeJs Link</a>
+  <a href="https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi" target="_blank"> NodeJs</a>
 </div>
 
 #
@@ -19,3 +19,13 @@ npm install
 ```
 
 #
+
+### Run Index.js
+
+```ws
+node index.js 
+```
+### or you can open file run.bat to start project
+```ws
+run.bat
+```
