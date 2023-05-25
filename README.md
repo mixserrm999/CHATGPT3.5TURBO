@@ -3,7 +3,7 @@
 
 #
 
-### Download NodeJS
+<h2 align="center">Download NodeJS</h2>
 
 #
 <div align="center">
